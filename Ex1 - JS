@@ -1,0 +1,15 @@
+import { LightningElement } from 'lwc';
+
+export default class ExeLWC extends LightningElement {
+
+    newLead = {
+        primeironome: "Gabriel",
+        sobrenome: "Gaspar",
+        idade: "28 Anos",
+        email: "gaaspar.gaabriel@gmail.com",
+        classi: "Ativo",
+        empresa: "SoulCode",
+        rec: "R$ 28.888,00"
+    }
+
+}
