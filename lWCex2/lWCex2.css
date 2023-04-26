@@ -1,0 +1,21 @@
+.corp {
+    border: 2%;
+    width: 50%;
+    border-radius: 7%;
+    background-color: rgb(237, 233, 170);
+    border-style: double;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: larger;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-size: larger;
+}

@@ -1,0 +1,20 @@
+.corp {
+    border: 2%;
+    width: 50%;
+    border-radius: 7%;
+    background-color: aqua;
+    border-style: groove;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-style: oblique;
+}
