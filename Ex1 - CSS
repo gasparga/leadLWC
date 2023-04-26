@@ -1,0 +1,19 @@
+.corp {
+    background-color: rgb(191, 183, 175);
+    width: 30%;
+    border: 2%;
+    border-radius: 10%;
+    border-color: black;
+    border-style: groove;
+    text-align: center;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
