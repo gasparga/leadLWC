@@ -1,0 +1,17 @@
+<template>
+    
+    <lightning-card>
+<div class="corp">
+    <h1>New Lead</h1><br/>
+    <h1>Nome: {newLead.primeironome}</h1> <h1> SobreNome: {newLead.sobrenome}</h1><br/>
+    <p>Idade: {newLead.idade}</p>
+    <p>Email: {newLead.email}</p>
+    <p>Classificação: {newLead.classi}</p>
+    <p>Empresa: {newLead.empresa}</p>
+    <p>Receita Anual: {newLead.rec}</p>
+    
+
+</div>
+    </lightning-card>
+
+</template>
